@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on an ASP.NET Microservice Application
-- 🌱 I’m currently learning Microservices
-- 👯 I’m looking to collaborate on GitHub, Twitter and Discord
+- 🌱 I’m currently mastering Microservices in C#, Java and Node.
+- 👯 I’m looking to collaborate on GitHub, X and Discord
 - 🤔 I’m looking for help with growing my career in tech
-- 💬 Ask me about C#, React, Svelte, Node.js and ASP.NET Core
+- 💬 Ask me about C#, React, Svelte, Node.js, JAVA and ASP.NET Core
 - 📫 How to reach me: ...
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: when I am not coding and immobile, I am a prolific movie watcher and also an awesome football player
